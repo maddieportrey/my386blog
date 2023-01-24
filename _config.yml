@@ -18,27 +18,27 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Blog Title # Make a title for your blog
-email: author_email@email.com # Add your email 
+title: Data Science for the Simple Mind # Make a title for your blog
+email: maddiekay13@gmail.com # Add your email 
 description: >- # this means to ignore newlines until "baseurl:"
- Change the description so that it describes your blog
+ Data science isn't as hard as people make it out to be. Read on for simple data science tips and info!
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
-url: "https://esnt.github.io" #  change this to "https://<your-github-username>.github.io"
-image: /assets/images/image5.jpg
-author: Your name
-copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
+url: "https://maddiekkay.github.io" #  change this to "https://<your-github-username>.github.io"
+image: /assets/images/pic1.jpg
+author: Maddie Portrey
+copyright: MKP # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
 # Social media users names.  Leave fields blank that you don't want displayed
-twitter_username: 386student
-github_username:  386student
-linkedin_username: 386student
+twitter_username: 
+github_username:  maddiekkay
+linkedin_username: maddie_portrey
 dribbble_username: 
-facebook_username: 386student
+facebook_username: 
 flickr_username:
-instagram_username: 
+instagram_username: maddie_portrey
 pinterest_username:
 youtube_username: 
-googleplus_username: 386student
+googleplus_username: 
 
 
 # Build settings
