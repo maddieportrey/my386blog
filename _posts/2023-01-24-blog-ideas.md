@@ -22,4 +22,4 @@ Invisible Women: Data Bias in a World Designed for Men
 
 I plan to get data for my main class project through kaggle and google dataset search.
 
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/pic3.jpg" alt="" style="width:100px;"/>
+![Figure](https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/pic3.jpg)
