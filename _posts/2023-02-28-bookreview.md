@@ -22,7 +22,7 @@ For example:
 
 I loved this book because it gave case study after case study illustrating how the gender data gap affects women globally. Often when I'm talking about institutional sexism, I don't have specific examples besides the classic ones that are always mentioned: the gender pay gap, lack of representation in leadership roles, sexual harassment and discrimination, etc. I loved reading this book and expanding my knowledge of how the gender data gap affects me and all of the women in my life. Criado-Perez also offers potential solutions throughout the book, which I appreciated. Instead of just throwing a bunch of information at us and then leaving, she suggested increasing diversity in data collection and analysis and ensuring that gender is always considered in policy decisions. I also appreciated that she highlighted the intersectionality of the gender data gap. She recognized that women's experiences are not monolithic and that the data gap affects women of different races, socioeconomic backgrounds, and sexual orientations differently.
 
-One of the only things I didn't love about the book was that it provided a lot of anecdotal evidence and didn't provide a lot of in-depth analysis of the underlying causes of the gender data gap. I would have liked to read more about why we think the way we do, why it seems to have always been like that, and how that thinking affects our daily lives.
+One of the only things I didn't love about the book was that it provided a lot of anecdotal evidence and didn't provide a lot of in-depth analysis of the underlying causes of the gender data gap. I would have liked to read more about why we think the way we do, why it seems to have always been like that, and how that thinking affects us without our conscious knowledge.
 
 The subject of gender bias is often a tough pill to swallow because it's likely that none of us think we are actively sexist. Even as I was reading the book, I thought, "but that's just the way it is! We say "man" when we mean both men and women because that's the way it's always been!" This book forced me to confront my own gender bias and all of the things that I have accepted without batting an eye. Everyone, regardless of gender, should consider reading this book. It can help everyone better understand how gender bias impacts our lives, and it challenges your assumptions and beliefs. Overall, we can become more informed and engaged citizens who care about the women all around us.
 
@@ -30,8 +30,12 @@ The subject of gender bias is often a tough pill to swallow because it's likely 
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/scientist.webp"/>
 </p>
 
-One last fun example of the gender data gap illustrated above: A Day in the Life of a Female Scientist
+One last example of the gender data gap illustrated above: A Day in the Life of a Female Scientist
 
-1. 
+1. Getting the kids to school
+   - Transport networks are designed to serve compulsory travel for economic activity -- not care, which is what most women travel for. The networks tend to be radial, great to get in and out of town, but not for traveling locally to drop off kids at school. Women do trip-chaining -- if there is not hopper fare this means buying several tickets.
+
+2. Arrival at work
+   - 
 
 (written with the help of ChatGPT)
