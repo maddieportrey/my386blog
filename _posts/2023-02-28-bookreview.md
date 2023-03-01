@@ -26,16 +26,21 @@ One of the only things I didn't love about the book was that it provided a lot o
 
 The subject of gender bias is often a tough pill to swallow because it's likely that none of us think we are actively sexist. Even as I was reading the book, I thought, "but that's just the way it is! We say "man" when we mean both men and women because that's the way it's always been!" This book forced me to confront my own gender bias and all of the things that I have accepted without batting an eye. Everyone, regardless of gender, should consider reading this book. It can help everyone better understand how gender bias impacts our lives, and it challenges your assumptions and beliefs. Overall, we can become more informed and engaged citizens who care about the women all around us.
 
+Final rating: 4.5 stars out of 5 stars
+
  <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/scientist.webp"/>
 </p>
 
-One last example of the gender data gap illustrated above: A Day in the Life of a Female Scientist
+Illustrated above: [A Day in the Life of a Female Scientist](https://www.rolandberger.com/en/Insights/Publications/How-a-bias-in-data-could-widen-the-gender-gap.html)
 
 1. Getting the kids to school
    - Transport networks are designed to serve compulsory travel for economic activity -- not care, which is what most women travel for. The networks tend to be radial, great to get in and out of town, but not for traveling locally to drop off kids at school. Women do trip-chaining -- if there is not hopper fare this means buying several tickets.
 
 2. Arrival at work
-   - 
+   - The standard office temperature is based on the metabolic resting rate of the average 40 year old, 155 lb man -- offices are, on average, 5° too cold for women. Personal protection equipment like lab coats and overalls are designed around the male body -- 10% of women working in the energy sector wear equipment designed for women. The average smartphone is 5'5" -- too big for the average woman to use one-handed.
+
+3. Paycheck
+   - Women earn between 31% and 75% less than men over lifetimes. They are more likely to be in part-time work, which is generally paid less well. But we need the unpaid care work.
 
 (written with the help of ChatGPT)
