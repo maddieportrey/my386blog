@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Uncovering the Invisible Women: a Book Review"
+title:  "Uncovering the Invisible: a Book Review"
 author: Maddie Portrey
 description: An informative review of Caroline Criado-Perez's "Invisible Women"
 image: /assets/images/invisible women2.jpeg
