@@ -56,4 +56,4 @@ Illustrated above: [A Day in the Life of a Female Scientist](https://www.rolandb
 
 Are you convinced yet?
 
-(written with the assistance of ChatGPT)
+(partly written with the assistance of ChatGPT)
