@@ -6,7 +6,7 @@ description: An informative review of Caroline Criado-Perez's "Invisible Women"
 image: /assets/images/invisible women2.jpeg
 ---
 
-Invisible Women by Caroline Criado-Perez is a thought-provoking and eye-opening book that explores the gender data gap and the resulting impact on women's lives. The book is a must-read for anyone interested in understanding the systemic bias that exists in our data-driven world. She begins by highlighting how data is collected, analyzed, and used in various aspects of our lives, from healthcare to transportation to workplace policies. She then illustrates how this data often excludes women or fails to consider gender differences, leading to a skewed understanding of reality.
+[Invisible Women](https://www.amazon.com/Invisible-Women-Data-World-Designed/dp/1419729071) by Caroline Criado-Perez is a thought-provoking and eye-opening book that explores the gender data gap and the resulting impact on women's lives. The book is a must-read for anyone interested in understanding the systemic bias that exists in our data-driven world. She begins by highlighting how data is collected, analyzed, and used in various aspects of our lives, from healthcare to transportation to workplace policies. She then illustrates how this data often excludes women or fails to consider gender differences, leading to a skewed understanding of reality.
 
 For example:
 
@@ -53,5 +53,7 @@ Illustrated above: [A Day in the Life of a Female Scientist](https://www.rolandb
 
 6. At the theater
    - Why is public restroom space allocated 50/50? Women take 2.3 times longer, go more often, and often have children with them. In the developing world, the lack of public toilets means more than an inconvenience -- it causes health problems and puts women in danger. The UN says one in three women lack access to safe toilets. The typical Mumbai slum has six bathrooms for 8,000 women.
+
+Are you convinced yet?
 
 (written with the assistance of ChatGPT)
