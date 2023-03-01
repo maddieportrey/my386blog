@@ -18,5 +18,5 @@ I loved this book because it gave case study after case study illustrating how t
 
 One of the only things I didn't love about the book was that it provided a lot of anecdotal evidence and didn't provide a lot of in-depth analysis of the underlying causes of the gender data gap. I would have liked to read more about why we think the way we do, why it seems to have always been like that, and how that thinking affects our daily lives.
 
-The subject of gender bias is often a tough pill to swallow because it's likely that none of us think we are actively sexist. Even as I was reading the book, I thought, "but that's just the way it is! We say "man" when we mean both men and women because that's the way it's always been!" This book forced me to confront my own gender bias and all of the things that I have accepted without batting an eye. Everyone, regardless of gender, should consider reading this book. It can help everyone better understand how gender bias impacts our lives, and it challenges your assumptions and beliefs. Overall, we can become more informed and engaged citizens who care about the women all around us.
+
 
