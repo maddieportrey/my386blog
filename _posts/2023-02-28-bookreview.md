@@ -2,7 +2,7 @@
 layout: post
 title:  "Invisible Women: a Book Review"
 author: Maddie Portrey
-description: An informative review of Caroline Criado-Perez' "Invisible Women"
+description: An informative review of Caroline Criado-Perez's "Invisible Women"
 image: /assets/images/invisible women2.jpeg
 ---
 
@@ -54,4 +54,4 @@ Illustrated above: [A Day in the Life of a Female Scientist](https://www.rolandb
 6. At the theater
    - Why is public restroom space allocated 50/50? Women take 2.3 times longer, go more often, and often have children with them. In the developing world, the lack of public toilets means more than an inconvenience -- it causes health problems and puts women in danger. The UN says one in three women lack access to safe toilets. The typical Mumbai slum has six bathrooms for 8,000 women.
 
-(written with the help of ChatGPT)
+(written with the assistance of ChatGPT)
