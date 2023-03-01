@@ -28,6 +28,8 @@ The subject of gender bias is often a tough pill to swallow because it's likely 
 
 Final rating: 4.5 stars out of 5 stars
 
+An extra and unnecessary example in case you weren't convinced that the gender data gap is literally all around us:
+
  <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/scientist.webp"/>
 </p>
@@ -35,12 +37,21 @@ Final rating: 4.5 stars out of 5 stars
 Illustrated above: [A Day in the Life of a Female Scientist](https://www.rolandberger.com/en/Insights/Publications/How-a-bias-in-data-could-widen-the-gender-gap.html)
 
 1. Getting the kids to school
-   - Transport networks are designed to serve compulsory travel for economic activity -- not care, which is what most women travel for. The networks tend to be radial, great to get in and out of town, but not for traveling locally to drop off kids at school. Women do trip-chaining -- if there is not hopper fare this means buying several tickets.
+   - Transport networks are designed to serve compulsory travel for economic activity -- not care, the reason why most women travel. The networks tend to be radial, great for getting in and out of town but not for traveling locally to drop off kids at school. Women do trip-chaining -- if there is no hopper fare, this means buying several tickets.
 
 2. Arrival at work
-   - The standard office temperature is based on the metabolic resting rate of the average 40 year old, 155 lb man -- offices are, on average, 5° too cold for women. Personal protection equipment like lab coats and overalls are designed around the male body -- 10% of women working in the energy sector wear equipment designed for women. The average smartphone is 5'5" -- too big for the average woman to use one-handed.
+   - The standard office temperature is based on the metabolic resting rate of the average 40-year-old, 155 lb man -- offices are, on average, 5° too cold for women. Personal protection equipment like lab coats and overalls are designed around the male body -- 10% of women in the energy sector wear equipment designed for women. The average smartphone is 5'5" -- too big for the average woman to use one-handed.
 
 3. Paycheck
-   - Women earn between 31% and 75% less than men over lifetimes. They are more likely to be in part-time work, which is generally paid less well. But we need the unpaid care work.
+   - Women earn between 31% and 75% less than men over their lifetimes. They are more likely to be in part-time work, generally paid less. But we need the unpaid care work -- none of us, including businesses, could do without the invisible, unpaid work careers do. Pensions are increasingly directly based on past contributions, so women are penalized even further for their unpaid care work.
+
+4. After-work work
+   - Home again via school and shops, followed by unpaid work in the evening. Globally, women do three times the amount of unpaid care work men do. The failure to measure unpaid household services is the most significant gender data gap of all -- it could account for up to 50% of GDP in high-income countries. Cuts in social care budgets simply shift the cost from the public sector to women because the work still needs to be done. Of the cuts made in the UK following the 2008 financial crash, 86% fell on women.
+
+5. An evening out
+   - Automobile safety features are designed for the average male. As a result, a woman is 47% more likely to be seriously injured than a man in a car crash. Crash test dummies are based on the average male -- 1.77 meters tall (about 5'10") and weighing 76 kg (about 167 lbs).
+
+6. At the theater
+   - Why is public restroom space allocated 50/50? Women take 2.3 times longer, go more often, and often have children with them. In the developing world, the lack of public toilets means more than an inconvenience -- it causes health problems and puts women in danger. The UN says one in three women lack access to safe toilets. The typical Mumbai slum has six bathrooms for 8,000 women.
 
 (written with the help of ChatGPT)
