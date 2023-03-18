@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Spotify? No, it's Spotipy"
+title: "Spotify? No, it's SpotiPy"
 author: Maddie Portrey
 description: Using Spotify to scrape your personal music information
 image: /assets/images/mohammad-metri-1oKxSKSOowE-unsplash (1).jpg
 ---
+
+I'm a big music girlie. I love music. I'm constantly listening to something, and I love finding new music from new artists. But how do I know if I'm going to love a song? Is there some kind of weird algorithm in my brain that's wired to enjoy a song? Luckily, using the Spotify Web API, I can try to find out the answer.
+
+Spotify makes some of its data publicly available through its Web API. This allows anyone who creates a Spotify Developer account and registers an application to access data about users, playlists, tracks, and more. This data is intended to be used by developers to make new applications, tools, and services that enhance the Spotify experience. For someone who is scraping data for non-commercial use, like me, this is considered ethical as long as I'm not infringing on any copyrights or violating any terms of use.
 
