@@ -67,4 +67,4 @@ Using the Spotify Web API can be a powerful tool for web scraping and data analy
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/muneeb-syed-4_M8uIfPEZw-unsplash.jpg"/>
 </p>
 
-Song Rec: "The Adults Are Talking" by **The Strokes**
+My song rec: "The Adults Are Talking" by **The Strokes**
