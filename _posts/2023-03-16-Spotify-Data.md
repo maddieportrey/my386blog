@@ -55,13 +55,16 @@ while(len(my_tracks['items']) > 0):
     my_tracks = sp2.current_user_saved_tracks(limit = limit, offset = offset)
 ```
 
+From here, I used another endpoint to retrieve the audio features of each track. After that it's basic data cleaning and wrangling to combine everything into a complete dataframe. [Here's](https://github.com/maddiekkay/Spotify-Project) my GitHub repository with my code and dataset.
+
  <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/dominik-vanyi-5Fxuo7x-eyg-unsplash.jpg"/>
 </p>
 
-### My work:
+Using the Spotify Web API can be a powerful tool for web scraping and data analysis. With the ability to access data about users, playlists, tracks, and more, I was able to create a complete dataframe of all 700 songs I've saved over the past couple years. Even after just glancing around the dataframe I was immediately able to see some consistencies in different audio features. Stay tuned for the analysis of my saved music and probably some (hopefully) great music recs. Let me know any songs that are taking over your life right now in the comments and they might just make it into my saved songs data frame...
 
  <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/muneeb-syed-4_M8uIfPEZw-unsplash.jpg"/>
 </p>
 
+Song Rec: "The Adults Are Talking" by **The Strokes**
