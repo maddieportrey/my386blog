@@ -11,7 +11,7 @@ I'm a big music girlie; I love music. I'm constantly listening to something, and
 Spotify makes some of its data publicly available through its Web API. This allows anyone who creates a Spotify Developer account and registers an application to access data about users, playlists, tracks, and more. This data is intended to be used by developers to make new applications, tools, and services that enhance the Spotify experience. For someone who is scraping data for non-commercial use, like me, this is considered ethical as long as I'm not infringing on any copyrights or violating any terms of use.
 
  <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clay-banks-fEVaiLwWvlU-unsplash.jpg"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clay-banks-fEVaiLwWvlU-unsplash.jpg" alt="" style="width:600px;"/>
 </p>
 
 ### The Process:
@@ -58,13 +58,13 @@ while(len(my_tracks['items']) > 0):
 From here, I used another endpoint to retrieve the audio features of each track. After that it's basic data cleaning and wrangling to combine everything into a complete dataframe. [Here's](https://github.com/maddiekkay/Spotify-Project) my GitHub repository with my code and dataset.
 
  <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/dominik-vanyi-5Fxuo7x-eyg-unsplash.jpg"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/dominik-vanyi-5Fxuo7x-eyg-unsplash.jpg" alt="" style="width:500px;"/>
 </p>
 
 Using the Spotify Web API can be a powerful tool for web scraping and data analysis. With the ability to access data about users, playlists, tracks, and more, I was able to create a complete dataframe of all 700 songs I've saved over the past couple years. Even after just glancing around the dataframe I was immediately able to see some consistencies in different audio features. Stay tuned for the analysis of my saved music and probably some (hopefully) great music recs. Let me know any songs that are taking over your life right now in the comments and they might just make it into my saved songs data frame...
 
  <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/muneeb-syed-4_M8uIfPEZw-unsplash.jpg"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/muneeb-syed-4_M8uIfPEZw-unsplash.jpg" alt="" style="width:500px;"/>
 </p>
 
 My song rec: "The Adults Are Talking" by **The Strokes**
