@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spott(ify)ing the Musical Similarities"
+title: "Spott(ify)ing the Similarities"
 author: Maddie Portrey
 description: Explore the statistics behind my music library with Spotify's API
 image: /assets/images/vishnu-r-nair-m1WZS5ye404-unsplash.jpg
@@ -51,9 +51,10 @@ With these measurements in mind, let's get into some cool graphics representing 
 The plots above are nine histograms of the features I thought most relevant to my music. A couple of them even look like normal distributions, which is kind of wild, but there are a couple I want to look into more.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/popularity.png" alt="" style="width:400px;"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/popularity.png" alt="" style="width:500px;"/>
 </p>
 
+I created a more detailed histogram of the popularity of each song in my library. In the little histograms above, it looks like most of the songs are round the 50-ish popularity line. In the second one, though, we can see that it was only distributed that way because of how many bins there were. In reality, there are many more songs around the 0 mark than stacked on the 50.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clem-onojeghuo-pTeZKi29EYE-unsplash.jpg"/>
