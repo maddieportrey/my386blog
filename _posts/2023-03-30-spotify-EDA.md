@@ -36,4 +36,8 @@ In this post, I'll dive a little deeper into the statistics behind the music sav
 
  - Valence: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/steve-harvey-QWUCeS2qVoM-unsplash.jpg"/>
+</p>
+
 With these measurements in mind, let's get into some cool graphics representing my music:
