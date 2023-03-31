@@ -6,7 +6,7 @@ description: Explore the statistics behind my music library with Spotify's API
 image: /assets/images/vishnu-r-nair-m1WZS5ye404-unsplash.jpg
 ---
 
-As previously mentioned, I'm a big music girlie. That has not changed in the few weeks since I originally scraped my music data from Spotify. In fact, I've been to two concerts just this month and I've bought tickets for two more. With that in mind, I continue to wonder why some songs speak to me more than others. Is it a single factor of acousticness? Of danceability? Is it the perfect combination of energy and instrumentalness?
+As [previously mentioned](https://maddiekkay.github.io/my386blog/2023/03/16/Spotify-Data.html), I'm a big music girlie. That has not changed in the few weeks since I originally scraped my music data from Spotify. In fact, I've been to two concerts just this month and I've bought tickets for two more. With that in mind, I continue to wonder why some songs speak to me more than others. Is it a single factor of acousticness? Of danceability? Is it the perfect combination of energy and valence?
 
 In this post, I'll dive a little deeper into the statistics behind the music saved in my library. Using the Spotify API, I was able to scrape the data about each track in my liked songs, which has over 700 songs. After cleaning the data, each track has the following information (pulled from Spotify's API information):
 
@@ -36,10 +36,17 @@ In this post, I'll dive a little deeper into the statistics behind the music sav
 
  - Valence
 
- Full descriptions of each are available [here](https://developer.spotify.com/documentation/web-api/reference/get-several-audio-features).
+ Full descriptions of each factor are available [here](https://developer.spotify.com/documentation/web-api/reference/get-several-audio-features).
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/steve-harvey-QWUCeS2qVoM-unsplash.jpg"/>
 </p>
 
 With these measurements in mind, let's get into some cool graphics representing my music:
+
+
+
+
+I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to!
+
+The last song I listened to: "Lonely" by **The Wldlfe**
