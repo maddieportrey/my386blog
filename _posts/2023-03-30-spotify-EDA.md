@@ -76,6 +76,6 @@ Based on these averages, I'm really interested to see what songs (if any) fit in
 
 I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to! (even -- or especially -- if it's from High School Musical)
 
-The last song I listened to: ["Lonely"](https://www.youtube.com/watch?v=ia8EkeF7S88) by **The Wldlfe**
+Last song I listened to: ["Lonely"](https://www.youtube.com/watch?v=ia8EkeF7S88) by **The Wldlfe**
 
 Find all code for this project [here](https://github.com/maddiekkay/Spotify-Project).
