@@ -68,10 +68,12 @@ Speaking of averages, I wanted to know the means of each variable:
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/meantable.png" alt="" style="width:200px;"/>
 </p>
 
+Based on these averages, I'm really interested to see what songs (if any) fit into each category at the average (give or take .1). Are they even good songs? Do I like them better than other songs? Guess you'll have to stay tuned for the next post to find out.
+
 <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clem-onojeghuo-pTeZKi29EYE-unsplash.jpg" alt="" style="width:500px;"/>
 </p>
 
 I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to! (even -- or especially -- if it's from High School Musical)
 
-The last song I listened to: "Lonely" by **The Wldlfe**
+The last song I listened to: ["Lonely"](https://www.youtube.com/watch?v=ia8EkeF7S88) by **The Wldlfe**
