@@ -53,6 +53,6 @@ With these measurements in mind, let's get into some cool graphics representing 
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clem-onojeghuo-pTeZKi29EYE-unsplash.jpg"/>
 </p>
 
-I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to!
+I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to! (even if it's from High School Musical)
 
 The last song I listened to: "Lonely" by **The Wldlfe**
