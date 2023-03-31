@@ -44,7 +44,9 @@ In this post, I'll dive a little deeper into the statistics behind the music sav
 
 With these measurements in mind, let's get into some cool graphics representing my music:
 
-
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/nineplots.png"/>
+</p>
 
 
 
