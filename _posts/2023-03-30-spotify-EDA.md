@@ -45,7 +45,7 @@ In this post, I'll dive a little deeper into the statistics behind the music sav
 With these measurements in mind, let's get into some cool graphics representing my music:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/nineplots.png" alt="" style="width:600px;"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/nineplots.png" alt="" style="width:500px;"/>
 </p>
 
 The plots above are nine histograms of the features I thought most relevant to my music. A couple of them even look like normal distributions, which is kind of wild, but there are a couple I want to look into more.
