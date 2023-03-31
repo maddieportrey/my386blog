@@ -57,6 +57,10 @@ The plots above are nine histograms of the features I thought most relevant to m
 I created a more detailed histogram of the popularity of each song in my library. In the little histograms above, it looks like most of the songs are round the 50-ish popularity line. In the second one, though, we can see that it was only distributed that way because of how many bins there were. In reality, there are many more songs around the 0 mark than stacked on the 50.
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/valence.png" alt="" style="width:500px;"/>
+</p>
+
+<p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clem-onojeghuo-pTeZKi29EYE-unsplash.jpg"/>
 </p>
 
