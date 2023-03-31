@@ -62,10 +62,16 @@ I created a more detailed histogram of the popularity of each song in my library
 
 Because that plot was so different, I was interested in how the valence plot changed as well. Valence, in this dataset, is a measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track. Tracks with high valence sounds more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry). My new valence histogram is very similarly distributed to the littler one above, but it looks like the peak is around .3. I didn't know I listen to more negative music, on average, but it's kind of fun to know.
 
+Speaking of averages, I wanted to know the means of each variable:
+
 <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clem-onojeghuo-pTeZKi29EYE-unsplash.jpg"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/meantable.png" alt="" style="width:200px;"/>
 </p>
 
-I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to! (even if it's from High School Musical)
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/clem-onojeghuo-pTeZKi29EYE-unsplash.jpg" alt="" style="width:500px;"/>
+</p>
+
+I loved the couple of song recommendations I got on my last post, but this time let me know the last song you listened to! (even -- or especially -- if it's from High School Musical)
 
 The last song I listened to: "Lonely" by **The Wldlfe**
