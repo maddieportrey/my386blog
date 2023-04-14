@@ -11,5 +11,5 @@ I'm sure everyone has been on the edge of their seats since my last post, and fo
 So fine, FINE, I'll give the people what they want. Let's get into my Spotify story.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/ardian-lumi-6Woj_wozqmA-unsplash.jpg"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/ardian-lumi-6Woj_wozqmA-unsplash.jpg"alt="" style="width:500px;"/>
 </p>
