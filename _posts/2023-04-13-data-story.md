@@ -23,3 +23,8 @@ After dividing popularity by 100 to be on the same scale as the other categories
 </p>
 
 I decided to create a table of the songs that fit in the middle two quartiles (the middle 50% of the data) of each of these six categories, as well as popularity. 
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/finaltable.png"/>
+</p>
