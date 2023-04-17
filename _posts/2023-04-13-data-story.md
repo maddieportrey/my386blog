@@ -29,4 +29,6 @@ I decided to create a table of the songs that fit in the middle two quartiles (t
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/finaltable.png"/>
 </p>
 
-I am a big fan of these songs, and I feel like they really do sum up the basics of my music library. Overall, I've enjoyed exploring my music library more in depth and I hope you've enjoyed the journey. I
+I am a big fan of these songs, and I feel like they really do sum up the basics of my music library. Overall, I've enjoyed exploring my music library more in depth and I hope you've enjoyed the journey. Let me know a song that you think sums up your music library below, and thanks for tuning in!
+
+If you want to see the entirety of my code, etc., you can find it [here](https://github.com/maddiekkay/Spotify-Project).
