@@ -6,7 +6,7 @@ description: Can we predict which college conference a player is from by their s
 image: /assets/images/patrick-ogilvie-GB9XKDZWwp0-unsplash.jpg
 ---
 
-The NFL has become a passion of mine in recent years, and I love following players throughout their career as they play on different teams with different team dynamics. My love for college football got me thinking, "Do players in more competitive college conferences do better in the NFL?"
+The NFL has become a passion of mine in recent years, and I love following players throughout their career as they play on different teams with different team dynamics. My love for college football got me thinking, "Do players in more competitive college conferences do better in the NFL?" For college players, I wondered if it was worth it to be an average joe in a good conference, or to be a star in a lesser conference. Sure, less players get picked up from lower conferences, but if you're good enough to get attention, does it matter?
 
 In this post, I'll attempt to dive into why (or why not) college conference matters for players in the NFL.
 
@@ -70,6 +70,10 @@ After looking at the data, I decided to explore a few machine learning models. I
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/scores.png" alt="" style="width:500px;"/>
 </p>
 
-The model that had the best scores was ____. It still didn't score super well, which makes me it seem like there isn't a huge correlation between college conference and player sucess in the NFL.
+The model that had the best scores was the Support Vector Machine. It had an F1 score of .21, a recall score of .27, and a precision score of .38. It still didn't score super well, which makes me it seem like there isn't a huge correlation between college conference and player success in the NFL.
 
-Overall, this was an interesting project to undertake and it helped improve my data cleaning, EDA, and machine learning skills. 
+Overall, this was an interesting project to undertake and it helped improve my data cleaning, EDA, and machine learning skills. I hope this made you curious about the world of football!
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/zabdiel-gonzalez-6XU8Xbrt95M-unsplash.jpg" alt="" style="width:500px;"/>
+</p>
