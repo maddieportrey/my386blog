@@ -6,10 +6,6 @@ description: Can we predict which college conference a player is from by their s
 image: /assets/images/patrick-ogilvie-GB9XKDZWwp0-unsplash.jpg
 ---
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/ameer-basheer-Yzef5dRpwWg-unsplash.jpg" alt="" style="width:500px;"/>
-</p>
-
 The NFL has become a passion of mine in recent years, and I love following players throughout their career as they play on different teams with different team dynamics. My love for college football got me thinking, "Do players in more competitive college conferences do better in the NFL?"
 
 In this post, I'll attempt to dive into why (or why not) college conference matters for players in the NFL.
@@ -37,3 +33,15 @@ To start, here are the [college football conferences](https://247sports.com/long
 #10. Mid-American Conference (MAC)
 
 With this in mind, I began to compile datasets to measure success in the NFL while connecting players with their college conference.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/ameer-basheer-Yzef5dRpwWg-unsplash.jpg" alt="" style="width:500px;"/>
+</p>
+
+I pulled data from several datasets, needing player stats, colleges, and conferences. I worked through many ways of doing this, but after data cleaning I finally landed with a dataset that included players from 1950 to 2017, with each row corresponding to a year of their career. I filtered out players who has less than 100 yards during that season, and cut out small conferences that only had a few players because of old conferences or being division II schools, etc.
+
+After setting up the data, I created a few plots to show the difference between yardage and TDs for each conference.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/conferences by yardage.png" alt="" style="width:500px;"/>
+</p>
