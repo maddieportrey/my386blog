@@ -67,7 +67,7 @@ I spoke to a couple of my peers about what I had explored in the data, and they 
 After looking at the data, I decided to explore a few machine learning models. I looked at Logistic Regression, Random Forest, Support Vector Machines, AdaBoost, and Decision Tree models. I tuned several of the models to give me better results, and all of the accuracy, recall, and precision scores can be seen below:
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/yards sep by conf.png" alt="" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/scores.png" alt="" style="width:500px;"/>
 </p>
 
 The model that had the best scores was ____. It still didn't score super well, which makes me it seem like there isn't a huge correlation between college conference and player sucess in the NFL.
