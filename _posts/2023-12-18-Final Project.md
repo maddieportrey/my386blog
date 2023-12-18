@@ -32,6 +32,8 @@ To start, here are the [college football conferences](https://247sports.com/long
 
 #10. Mid-American Conference (MAC)
 
+Honorable mentions: Big Sky Conference and The Ivy League
+
 With this in mind, I began to compile datasets to measure success in the NFL while connecting players with their college conference.
 
 <p align="center">
@@ -45,3 +47,15 @@ After setting up the data, I created a few plots to show the difference between 
 <p align="center">
 <img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/conferences by yardage.png" alt="" style="width:500px;"/>
 </p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/conferences by TDs.png" alt="" style="width:500px;"/>
+</p>
+
+I spoke to a couple of my peers and they suggested I create multiple plots to show the frequency of number of yards by conference. The plots are below:
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/maddiekkay/my386blog/main/assets/images/yards sep by conf.png" alt="" style="width:500px;"/>
+</p>
+
+After looking at the data, I decided to explore a few machine learning models.
